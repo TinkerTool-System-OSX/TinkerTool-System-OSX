@@ -1,7 +1,7 @@
 # TinkerTool System – System Maintenance Suite
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/13662/m/phps6xdwb-logo.png?v=1676894158" width="200" alt="TinkerTool System icon"/>
+  <img src="https://www.bresink.com/osx/0TinkerTool/TinkerTool11.png" width="200" alt="TinkerTool System icon"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.chriswrites.com/wp-content/uploads/tinkertool.png" alt="TinkerTool System screenshot"/>
+  <img src="https://www.bresink.com/osx/300863620-2/Docs-en/pgs/gfx/_Full-Shadow.png" alt="TinkerTool System screenshot"/>
 </p>
 
 ---
